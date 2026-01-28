@@ -1,5 +1,5 @@
- 
- 
+rifle_ak47,rifle_sg552,rifle_desert
+pistol_magnum, pistol
 *,pipe_bomb,molotov,vomitjar
 first_aid_kit,defibrillator,upgradepack_explosive,upgradepack_incendiary
 *,pain_pills,adrenaline 
